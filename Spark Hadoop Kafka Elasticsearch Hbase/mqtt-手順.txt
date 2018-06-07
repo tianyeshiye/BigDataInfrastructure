@@ -1,0 +1,24 @@
+http://emqtt.com/docs/v2/getstarted.html
+
+unzip emqttd-macosx-v2.0.zip && cd emqttd
+
+# ??emqttd
+./bin/emqttd start
+
+# ???só?
+./bin/emqttd_ctl status
+
+# ’â~emqttd
+./bin/emqttd stop
+
+
+unzip emqttd-ubuntu16.04-v2.3.4.zip
+
+
+
+\\\\\\\\\Šm”F\\\
+
+
+http://192.168.153.165:18083
+
+admin/public

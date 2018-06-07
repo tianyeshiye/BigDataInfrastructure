@@ -1,0 +1,16 @@
+root@ubuntu:/var/log/elasticsearch# sysctl -w vm.max_map_count=262144
+vm.max_map_count = 262144
+
+
+
+
+ansible-playbook -i hosts playbooks/setup/my_setup.yml
+
+
+
+ämîFÅF
+http://192.168.153.165:9200/
+http://192.168.153.165:5601
+
+
+_
